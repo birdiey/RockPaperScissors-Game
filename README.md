@@ -9,7 +9,7 @@ This project is a web application developed as part of a task assigned to Sipho,
 - Play Rock Paper Scissors against Siri (the computer).
 - Display Siri's choice, the player's choice, and the game outcome.
 - Simple and intuitive user interface.
-- Built using Java, Servlets, JSP, HTML, and CSS.
+- Built using Java, Servlets,JSP ,HTML and CSS
 
 ## Technologies Used
 - **Backend**: Java, Servlets
