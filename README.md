@@ -3,7 +3,8 @@
 A web-based implementation of the classic Rock Paper Scissors game where the player competes against a computer opponent named Siri.
 
 ## Description
-This project is a web application developed as part of a task assigned to Sipho, a Software Developer at WeDoWebApps. The application allows users to play the Rock Paper Scissors game against Siri, the computer. The game follows the standard rules of Rock Paper Scissors, and the outcome is displayed after each round.
+This project is a web application developed as part of a task assigned to 
+Sipho, a Software Developer at WeDoWebApps. The application allows users to play the Rock Paper Scissors game against Siri, the computer. The game follows the standard rules of Rock Paper Scissors, and the outcome is displayed after each round.
 
 ## Features
 - Play Rock Paper Scissors against Siri (the computer).
